@@ -49,13 +49,14 @@ The network is organized into **3 stages** with increasing channel dimensions an
 
 The model was trained for 20 epochs, reaching a final test accuracy of approximately **77–78%** on CIFAR-10.
 
-![Training vs Test Accuracy](assets/training_vs_test_accuracy.png)
+![Training vs Test Accuracy](Ekran%20Resmi%202026-08-17%2018.17.20.png)
+
 
 ### Confusion Matrix
 
 The confusion matrix below shows per-class performance on the test set. Most classes are classified with high accuracy, with some expected confusion between visually similar classes (e.g., cats vs. dogs, automobiles vs. trucks).
 
-![Confusion Matrix](assets/confusion_matrix.png)
+![Confusion Matrix](Ekran%20Resmi%202026-08-17%2018.18.06.png)
 
 ## 🛠️ Tech Stack
 
